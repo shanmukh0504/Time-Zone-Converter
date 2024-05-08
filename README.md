@@ -12,6 +12,10 @@ This project is a web-based application built with React that allows users to co
 - **Google Calendar Integration**: The application generates Google Calendar links with meeting details for easy scheduling.
 - **Link Generation**: Users can generate shareable links containing selected time zones for future reference.
 
+## Deployment
+
+The application is deployed and accessible at [https://mytimezoneconverter.netlify.app/](https://mytimezoneconverter.netlify.app/).
+
 ## Getting Started
 
 To run the application locally, follow these steps:
@@ -38,6 +42,10 @@ To run the application locally, follow these steps:
 
 7. **Generating Shareable Links**: Click on the "Get the Link" icon to generate a shareable link containing selected time zones.
 
+## Developer
+
+- **Owner**: M. Shanmukha Rana Prathap
+
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
@@ -45,7 +53,3 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 ## Credits
 
 This project utilizes various libraries and technologies, including React, Styled Components, React DatePicker, FontAwesome, and Moment Timezone.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
