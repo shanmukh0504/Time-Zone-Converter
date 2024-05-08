@@ -1,0 +1,16 @@
+.navbar {
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+  }
+  
+  .navbar h2 {
+    font-size: 18px;
+    margin: 0;
+  }
+  
+  .navbar span {
+    font-size: 14px;
+    color: #808080;
+  }
